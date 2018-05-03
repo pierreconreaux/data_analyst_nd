@@ -1,6 +1,6 @@
 # Udacity Data Analyst Nanodegree Files
 
-This repository contains my submission for Udacity's Data Analyst Nanodegree program.
+This repository contains my submission for Udacity's Data Analyst Nanodegree program and a copy of [my certificate](https://github.com/pierreconreaux/data_analyst_nd/blob/master/data_analyst_certificate.pdf)
 
 ## Projects
 
