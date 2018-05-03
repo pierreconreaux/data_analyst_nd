@@ -12,7 +12,7 @@ the task.
 We will then look at some data collected from others who have performed the same task 
 and will compute some statistics describing the results. 
 
-Finally, weu will interpret our results in terms of hypotheses.
+Finally, we will interpret our results in terms of hypotheses.
 
 ## Libraries
 
