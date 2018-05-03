@@ -1,4 +1,4 @@
-# P2. Investigate a dataset
+# P3. Analyze A/B test results
 
 This repository contains my submission for Udacity's project Analyze A/B test results.
 
