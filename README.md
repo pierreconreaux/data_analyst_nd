@@ -10,3 +10,6 @@ This repository contains my submission for Udacity's Data Analyst Nanodegree pro
 - ***P3: Analyze A/B test results:*** For this project, we will be working to understand the results of an A/B test run by an e-commerce website. Our goal is to help the company understand if they should implement the new page, keep the old page, 
 or perhaps run the experiment longer to make their decision. [See Noteboook](https://github.com/pierreconreaux/data_analyst_nd/tree/master/p3_analyze_A:B_test_results)
 - ***P4: Perceptual Phenomenon:*** Investigation of a classic phenomenon from experimental psychology called the Stroop Effect. [See Noteboook](https://github.com/pierreconreaux/data_analyst_nd/tree/master/p4_perceptual_phenomenon)
+- ***P5: Red Wine Analysis:***  we try to get a better understanding of which chemical properties influence the quality of red wines, in exploring a public data set. [See Noteboook](https://github.com/pierreconreaux/data_analyst_nd/tree/master/p5_red_wine_exploration)
+- ***P6: We Rate Dogs:*** we gathering data, cleaning it and explore it, to get a better understanding on what influence sharing, as time (hours, days), kind of dogs (breeds, stages) and rating, in order to give some insight to the marketing team.
+
